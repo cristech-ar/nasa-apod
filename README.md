@@ -1,5 +1,8 @@
 # 🌌 NASA APOD Viewer
 
+![desktop_1](https://github.com/user-attachments/assets/9a39a2c9-9255-453a-a16d-102bfcc3cdc7)
+
+
 A **React** web application built with **TypeScript** and **Vite** to explore the wonders of the universe! This app consumes the **NASA API** to display the **Astronomical Picture of the Day (APOD)** along with its description. 🚀✨
 
 ---
