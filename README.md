@@ -32,4 +32,53 @@ Ensure you have the following installed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/cristech-ar/nasa-apod
+2. Open the project directory
+   ```bash
    cd nasa-apod-viewer
+4. Install dependencies:
+   ```bash
+   npm install
+5. Start the development server:
+   ```bash
+   npm run dev
+6. Open your browser and navigate to:
+   ```arduino
+   http://localhost:3000
+Vite will host the application at this address by default.
+
+🐳 Building and Running with Docker
+
+1. Build the Docker image:
+   ```bash
+   docker build -t nasa-apod .
+
+2. Run the Docker container:
+   ```bash
+   docker run -d -p 5500:5500 --name nasa-apod-container nasa-apod
+
+3. Access the application in your browser:
+     ```arduino
+   http://localhost:5500
+
+🔧 Configuration
+
+This app requires an API key from NASA. To configure it:
+
+    Get your API key from the NASA API Portal.
+    Create a .env file in the project root:
+
+    VITE_NASA_API_KEY=your_api_key_here
+
+🤝 Contributing
+
+Contributions are welcome! Feel free to submit a pull request or open an issue to suggest improvements or report bugs.
+📜 License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+🌟 Acknowledgments
+
+    NASA: For providing free and incredible data through their APIs.
+    Vite: For making development fast and efficient.
+    React: For powering the UI.
+
+Enjoy exploring the universe! 🌌✨
