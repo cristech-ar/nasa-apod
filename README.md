@@ -1,4 +1,4 @@
-# <img src="https://github.com/user-attachments/assets/fcd943a5-8828-4399-a37a-6371d7483d9a" alt="NASA" width="300" /> NASA APOD Viewer 
+# <img src="https://github.com/user-attachments/assets/fcd943a5-8828-4399-a37a-6371d7483d9a" alt="NASA" width="100" /> NASA APOD Viewer 
 
 https://nasa-apod.crisdev.tech
 
