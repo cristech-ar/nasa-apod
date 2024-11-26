@@ -1,6 +1,4 @@
-# <img src="https://github.com/user-attachments/assets/fcd943a5-8828-4399-a37a-6371d7483d9a" alt="NASA" width="100" /> NASA APOD Viewer 
-
-https://nasa-apod.crisdev.tech
+# <img src="https://github.com/user-attachments/assets/fcd943a5-8828-4399-a37a-6371d7483d9a" alt="NASA" width="100" /> NASA APOD Viewer  - https://nasa-apod.crisdev.tech
 
 
 ![desktop_1](https://github.com/user-attachments/assets/9a39a2c9-9255-453a-a16d-102bfcc3cdc7)
@@ -12,7 +10,7 @@ A **React** web application built with **TypeScript** and **Vite** to explore th
 
 ## 🛠️ Features
 
-- 🌠 **Daily Astronomical Image**: Explore the universe with NASA's curated image of the day.
+- 🌠 **Daily Astronomical Image**: Explore the universe with NASA's curated image of the day, select the day on calendar.
 - 📜 **Image Descriptions**: Learn more about each day's picture with its detailed description.
 - ⚡ **Modern Development Stack**: Built with React, TypeScript, and Vite for blazing-fast performance.
 - 🐳 **Docker Support**: Ready for deployment with an included Dockerfile.
